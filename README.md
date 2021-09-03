@@ -6,8 +6,8 @@ Olá 👋
 
  <div>
   <a href="https://github.com/saak01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saak01&show_icons=true&theme=black=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saak01&layout=compact&langs_count=7&theme=black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saak01&show_icons=true&theme=dark=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saak01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
  
