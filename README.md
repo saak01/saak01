@@ -19,7 +19,7 @@ Olá 👋
   <img align="center" alt="sak-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sak-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sak-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="175em" alt="Sanchio" src="https://64.media.tumblr.com/915c0f4bcfbcc61d06bda48f07449166/a7efc75cfd698e6c-f5/s540x810/ac2123dcba017bb01dc29c7f4f18879d7c85a5ec.gifv">
+  <img align="right" height="175em" alt="Sanchio" src="https://c.tenor.com/2z7NVAVjM_YAAAAd/guts-berserk.gif">
 </div>
  
  ##
