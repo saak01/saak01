@@ -1,7 +1,7 @@
 Olá 👋
 
-- 🔭 Procurando estágios na área de Back-End/Python 
-- 📕 Atualmente focando em Python
+- 🔭 Procurando estágios na área de Front-end/FullStack
+- 📕 Atualmente focando em Angular
 - 📫 Contato em : joaovictoralvescosta051@gmail.com
 
  ##
