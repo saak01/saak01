@@ -1,6 +1,6 @@
 Olá 👋
 
-- 🔭 Procurando estágios na área de Front-end/FullStack
+- 🔭 Procurando estágios/junior na área de Front-end/FullStack
 - 📕 Atualmente focando em Angular
 - 📫 Contato em : joaovictoralvescosta051@gmail.com
 
