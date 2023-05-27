@@ -1,7 +1,7 @@
 Olá 👋
 
 - 🔭 Procurando estágios/junior na área de Front-end/FullStack/Software Engineer
-- 📕 Atualmente focando em Angular
+- 📕 Atualmente focando em Flutter
 - 📫 Contato em : joaovictoralvescosta051@gmail.com
 
  ##
@@ -17,7 +17,7 @@ Olá 👋
   <img align="right" height="175em" alt="Sanchio" src="https://c.tenor.com/2z7NVAVjM_YAAAAd/guts-berserk.gif">
 </div>
  
- ##
+ 
  
  <div> 
  
