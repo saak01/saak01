@@ -1,6 +1,6 @@
 Olá 👋
 
-- 🔭 Procurando estágios/junior na área de Front-end/FullStack/Software Engineer
+- 🔭 Procurando vaga junior na área de Front-end/FullStack/Software Engineer
 - 📕 Atualmente focando em Flutter
 - 📫 Contato em : joaovictoralvescosta051@gmail.com
 
