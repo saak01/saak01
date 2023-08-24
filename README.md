@@ -1,8 +1,8 @@
 Olá 👋
 
-- 🔭 Procurando vaga junior na área de Front-end/FullStack/Software Engineer
-- 📕 Atualmente focando em Flutter
-- 📫 Contato em : joaovictoralvescosta051@gmail.com
+- 🔭 Procurando vaga junior na área de Front-end/FullStack/Software Engineer;
+- 📕 Atualmente em criar interfaces incriveis;
+- 📫 Contato em : joaovictorcosta.dev@gmail.com;
 
  ##
  
