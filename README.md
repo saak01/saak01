@@ -4,14 +4,10 @@ Olá 👋
 - 📕 Atualmente focado em criar interfaces incriveis;
 - 📫 Contato em : joaovictorcosta.dev@gmail.com;
 - <a href="https://portfolio-92b8b.web.app/" target="_blank">💼 Portifólio </a>
-<br>
    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-alves-costa-14549b231/" target="_blank">
     <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    </a>
- 
 
- ##
- 
  
 <div style="display: inline_block"><br>
  
