@@ -3,6 +3,7 @@ Olá 👋
 - 🔭 Procurando vaga junior na área de Front-end/FullStack/Software Engineer;
 - 📕 Atualmente focado em criar interfaces incriveis;
 - 📫 Contato em : joaovictorcosta.dev@gmail.com;
+- <br>
 - <a href="https://portfolio-92b8b.web.app/" target="_blank">💼 Portifólio </a>
     <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    </a>
