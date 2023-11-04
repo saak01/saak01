@@ -6,7 +6,11 @@ Olá 👋
 - <a href="https://joaovictorcosta.com.br" target="_blank">💼 Portifólio </a>
    <br>
    
+<div>
+   <a href="https://joaovictorcosta.com.br">
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+</div>
  
 <div style="display: inline_block"><br>
  
