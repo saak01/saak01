@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 🚀 Procurando uma vaga júnior nas áreas de Front-end/FullStack/Software Engineer;
-- 📕 Atualmente focado em criar interfaces incríveis;
+- 📕 Atualmente estudando Java/SpringBoot;
 - 📧 Contato: [joaovictorcosta.dev@gmail.com](mailto:joaovictorcosta.dev@gmail.com);
 - 💼 [Portfólio](https://joaovictorcosta.com.br)
 
