@@ -11,6 +11,10 @@
    <a href="https://joaovictorcosta.com.br">
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-alves-costa-14549b231/">
+<img align="center"  height="30" width="40" src="https://icons8.com.br/icon/19318/youtube" />
+</a>
+   
 </div>
 
 ## Tecnologias que trabalho
