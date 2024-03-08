@@ -8,11 +8,11 @@
 
 ## Redes Sociais
 <div>
-   <a href="https://joaovictorcosta.com.br">
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-alves-costa-14549b231/">
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-alves-costa-14549b231/">
-<img align="center"  height="30" width="40" src="https://icons8.com.br/icon/19318/youtube" />
+   <a href="https://www.youtube.com/channel/UCvUDdG2jogHOhtCKg3N4o5A">
+<img align="center"  height="30" width="40" src="https://img.icons8.com/fluency/48/youtube-play.png" />
 </a>
    
 </div>
