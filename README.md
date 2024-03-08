@@ -12,7 +12,7 @@
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
    <a href="https://www.youtube.com/channel/UCvUDdG2jogHOhtCKg3N4o5A">
-<img align="center"  height="30" width="40" src="https://img.icons8.com/fluency/48/youtube-play.png" />
+<img align="center"  height="50" width="40" src="https://img.icons8.com/fluency/48/youtube-play.png"/>
 </a>
    
 </div>
